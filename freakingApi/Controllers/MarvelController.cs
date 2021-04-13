@@ -1,6 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Logging;
+using System;
 using System.Collections.Generic;
+using System.Linq;
+using freakingApi.Managers;
 
 namespace freakingApi.Controllers
 {
@@ -10,10 +12,13 @@ namespace freakingApi.Controllers
     {
 
         [HttpGet]
-        public IEnumerable<Root> Get()
+        public IEnumerable<CharDTO> Get()
         {
-            List<Root> characters = new List<Root>();
+            List<CharDTO> characters = new List<CharDTO>();
             return characters;
+           
         }
+
+
     }
 }
