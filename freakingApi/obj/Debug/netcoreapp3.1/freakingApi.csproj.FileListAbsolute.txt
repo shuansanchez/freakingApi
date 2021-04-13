@@ -7,7 +7,6 @@ C:\Users\Joan\source\repos\freakingApi\freakingApi\bin\Debug\netcoreapp3.1\freak
 C:\Users\Joan\source\repos\freakingApi\freakingApi\bin\Debug\netcoreapp3.1\freakingApi.runtimeconfig.dev.json
 C:\Users\Joan\source\repos\freakingApi\freakingApi\bin\Debug\netcoreapp3.1\freakingApi.dll
 C:\Users\Joan\source\repos\freakingApi\freakingApi\bin\Debug\netcoreapp3.1\freakingApi.pdb
-C:\Users\Joan\source\repos\freakingApi\freakingApi\obj\Debug\netcoreapp3.1\freakingApi.csprojAssemblyReference.cache
 C:\Users\Joan\source\repos\freakingApi\freakingApi\obj\Debug\netcoreapp3.1\freakingApi.AssemblyInfoInputs.cache
 C:\Users\Joan\source\repos\freakingApi\freakingApi\obj\Debug\netcoreapp3.1\freakingApi.AssemblyInfo.cs
 C:\Users\Joan\source\repos\freakingApi\freakingApi\obj\Debug\netcoreapp3.1\freakingApi.csproj.CoreCompileInputs.cache
