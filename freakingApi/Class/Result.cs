@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace freakingApi.Classes
 {
-    public class Result
+    public class Result //Clase Character
     {
         public string id { get; set; }
         public string name { get; set; }

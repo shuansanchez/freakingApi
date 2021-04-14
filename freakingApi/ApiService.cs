@@ -47,6 +47,8 @@ namespace freakingApi
             return data;
         }
 
+        //llenar Dto
+
         private static string GetFormatedUrl(string url)
         {
             string result = string.Empty;

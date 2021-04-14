@@ -1,8 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using System;
 using System.Collections.Generic;
-using System.Linq;
-using freakingApi.Managers;
+using freakingApi.Classes;
+using System.Threading.Tasks;
 
 namespace freakingApi.Controllers
 {
@@ -11,14 +10,13 @@ namespace freakingApi.Controllers
     public class MarvelController : ControllerBase
     {
 
-        [HttpGet]
-        public IEnumerable<CharDTO> Get()
+        [HttpGet("/api/")]
+        public async Task<List<Result>> Get()
         {
-            List<CharDTO> characters = new List<CharDTO>();
-            return characters;
-           
+            Root character = await ApiService.SearchMarvelCharacters();
+            //List<CharDTO> characters = new List<CharDTO>();
+            
+            return character.data.results;
         }
-
-
     }
 }

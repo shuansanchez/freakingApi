@@ -17,3 +17,4 @@ C:\Users\Joan\source\repos\freakingApi\freakingApi\obj\Debug\netcoreapp3.1\stati
 C:\Users\Joan\source\repos\freakingApi\freakingApi\obj\Debug\netcoreapp3.1\freakingApi.dll
 C:\Users\Joan\source\repos\freakingApi\freakingApi\obj\Debug\netcoreapp3.1\freakingApi.pdb
 C:\Users\Joan\source\repos\freakingApi\freakingApi\obj\Debug\netcoreapp3.1\freakingApi.genruntimeconfig.cache
+C:\Users\Joan\source\repos\freakingApi\freakingApi\obj\Debug\netcoreapp3.1\freakingApi.csprojAssemblyReference.cache

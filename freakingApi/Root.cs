@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace freakingApi
 {
-    public class Root
+    public class Root 
     {
         public string code { get; set; }
         public string status { get; set; }
